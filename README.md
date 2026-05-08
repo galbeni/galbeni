@@ -1,6 +1,9 @@
 <div align="center">
 
-# Hi, I'm Beni 👋
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Beni</h1>
 
 Frontend-heavy Fullstack Software Engineer with a focus on scalable web applications, modern frontend architecture, Node.js backends, and cloud-ready systems.
 
@@ -8,7 +11,7 @@ Frontend-heavy Fullstack Software Engineer with a focus on scalable web applicat
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,html,css,sass,tailwind&theme=light" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,tailwind,html,css,sass&theme=light" alt="Frontend technologies" />
 
 ### State Management & UI
 
@@ -18,9 +21,9 @@ Frontend-heavy Fullstack Software Engineer with a focus on scalable web applicat
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=light" alt="Backend technologies" />
 
-### Data & Visualization
+### Database & Visualization
 
-<img src="https://skillicons.dev/icons?i=redis&theme=light" alt="Data and realtime technologies" />
+<img src="https://skillicons.dev/icons?i=redis,mysql,postgresql&theme=light" alt="Data and realtime technologies" />
 
 <br />
 
@@ -33,7 +36,10 @@ Frontend-heavy Fullstack Software Engineer with a focus on scalable web applicat
 
 ### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,aws&theme=light" alt="DevOps and infrastructure technologies" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,cloudflare&theme=light" alt="DevOps and infrastructure technologies" />
+
+## 👨🏻‍💻 Laptop in use
+<img src="https://img.shields.io/badge/Apple-MacBook_M3_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
 ## About me
 
