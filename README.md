@@ -19,7 +19,7 @@ Frontend-heavy Fullstack Software Engineer with a focus on scalable web applicat
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=light" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma&theme=light" alt="Backend technologies" />
 
 ### Database & Visualization
 
